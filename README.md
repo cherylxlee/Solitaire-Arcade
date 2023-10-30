@@ -36,4 +36,4 @@ The goal is to move all cards to the foundation piles, following suit from Ace t
 ## Contributing
 Developed from Arcade Solitaire program: view [here](https://api.arcade.academy/en/latest/tutorials/card_game/solitaire_11.html#solitaire-11)
 
-## Happy playing!🎉
+## Happy Playing!🎉

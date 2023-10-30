@@ -12,8 +12,8 @@ Dive into this classic Klondike Solitaire game, reimagined with the power of Pyt
 * Start-over feature
 
 ## Visuals/Demo
-<img src="demo/s1.png" width="400" height="350" /><img src="demo/s2.png" width="400" height="350" />
-<img src="demo/s3.png" width="400" height="350" /><img src="demo/s4.png" width="400" height="350" />
+<img src="demo/s1.PNG" width="400" height="350" /><img src="demo/s2.PNG" width="400" height="350" />
+<img src="demo/s3.PNG" width="400" height="350" /><img src="demo/s4.PNG" width="400" height="350" />
 
 ## ⚙ Installation
 1. Install the required Python arcade library:

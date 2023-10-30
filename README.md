@@ -33,7 +33,7 @@ Dive into this classic Klondike Solitaire game, reimagined with the power of Pyt
 ## How to Play
 The goal is to move all cards to the foundation piles, following suit from Ace to King.
 
-## Contributing
+## Sources
 Developed from Arcade Solitaire program: view [here](https://api.arcade.academy/en/latest/tutorials/card_game/solitaire_11.html#solitaire-11)
 
 ## Happy Playing!🎉

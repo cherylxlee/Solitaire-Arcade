@@ -3,10 +3,10 @@
 ## Description
 Dive into this classic Klondike Solitaire game, reimagined with the power of Python Arcade! Experience smooth animations, responsive gameplay, and captivating graphics.
 
-## Sources
-Developed from Arcade Solitaire program: view [here](https://api.arcade.academy/en/latest/tutorials/card_game/solitaire_11.html#solitaire-11)
-
 <img src="https://img.shields.io/badge/-Python-blue" /> <img src="https://img.shields.io/badge/-Arcade-orange" />
+
+## Sources
+Developed from [Arcade Solitaire program](https://api.arcade.academy/en/latest/tutorials/card_game/solitaire_11.html#solitaire-11)
 
 ## Features
 * Adaptable menu screen

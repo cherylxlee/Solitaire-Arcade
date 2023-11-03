@@ -1,4 +1,4 @@
-# Klondike Solitaire: Python Arcade Edition
+# Klondike Solitaire: Python & Arcade
 
 ## Description
 Dive into this classic Klondike Solitaire game, reimagined with the power of Python Arcade! Experience smooth animations, responsive gameplay, and captivating graphics.
